@@ -2,11 +2,11 @@ package com.fuyun.model;
 
 public class Wennuan {
 	
-		private int id;
-		private String username;
-		private String password;
-		private int age;
-		private String sex;
+		private int id;  //唯一id
+		private String username;  //名字
+		private String password; //密码
+		private int age;    //年龄
+		private String sex;  //性别
 		
 		
 		public int getId() {
